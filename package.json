@@ -1,0 +1,24 @@
+{
+  "name": "real-state",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/hisham-ax/Real-State#readme",
+  "bugs": {
+    "url": "https://github.com/hisham-ax/Real-State/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hisham-ax/Real-State.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "Server-Side/server.js",
+  "scripts": {
+    "dev": "nodemon .",
+    "start": "node ."
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
